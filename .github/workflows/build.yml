@@ -11,7 +11,7 @@ permissions:
 
 env:
   IMAGE: ghcr.io/bjn/seestar-alp-homelab
-  UPSTREAM_SHA: b007037d346714cd805775ded6f3402d2c0a5194
+  UPSTREAM_SHA: 2f7747f807e8d361c7bab206f0143720354acd6d
 
 jobs:
   build:
